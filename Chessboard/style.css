@@ -1,0 +1,26 @@
+td {
+	width:100px;
+	height:100px;
+}
+
+img {
+	margin: 4px;
+	width: 90px;
+	height: 90px;
+}
+
+.gSquare {
+	background-color: white;
+}
+
+.bSquare {
+	background-color: black;
+}
+
+
+
+/*#\37 1 {						/*	This section selects the cell's ID using unicode			*/
+/*	background-color: red;		/*	for the first character, followed by the second character.	*/
+/*}								/*	CSS doesn't like ID's starting with a number				*/
+								/*																*/
+								/*	JS doesn't care though.										*/
